@@ -1,6 +1,14 @@
 # my_daily_notes
 Record what you learn every day.
 
+
+
+### HTML Tutorial
+
+[学习 HTML 语言的进度](https://github.com/maxChenNian/my_daily_notes/blob/main/a001_001_example_html.html) 
+
+
+
 ### windows11 安装 Node.js
 
 下载并安装 Node.js，下载链接为： [Node.js](https://nodejs.org/en/download/) 
